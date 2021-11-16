@@ -2,7 +2,7 @@
 
 
 
-![UNVS号码认证服务_快速入门](../images/guide/UNVS号码认证服务_快速入门指南V1.0.png)
+![UNVS号码认证服务_快速入门](../unvs/images/guide/UNVS号码认证服务_快速入门指南V1.0.png)
 
 
 
@@ -66,5 +66,4 @@
 号码认证服务对接使用后，可以通过如下方式查询服务调用相关业务数据：
 
 - 通过 业务数据页 查询：[点击查询 业务数据统计 信息](https://console.ucloud.cn/unvs) 
-- 通过对接 状态报告查询API或SDK 查询：[API接口文档 ](https://docs.ucloud.cn/usms/api_docs/9001) 、[SDK文档 ](https://console.ucloud.cn/usms/config) 
 
