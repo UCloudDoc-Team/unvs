@@ -11,8 +11,8 @@
 
 ## 2.购买及付费
 
-* [计费模式](unvs/README)
-* [定价表](unvs/README)
+* [计费模式](unvs/price/price)
+* [定价表](unvs/price/price)
 
 
 

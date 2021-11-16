@@ -3,9 +3,9 @@
    * [什么是号码认证服务](unvs/README)
    * [功能与优势](unvs/README)
    * [应用场景](unvs/README)
-* 计费
-   * [计费模式](unvs/README)
-   * [定价表](unvs/README)
+* 产品定价
+   * [计费模式](unvs/price/price)
+   * [定价表](unvs/price/price)
 * 操作指南
    * [快速入门](unvs/guide)
    * [一键登录使用流程](unvs/guide)
