@@ -14,4 +14,3 @@
    * [业务场景配置](unvs/README)
 * 常见问题
    * [FAQ](unvs/README)
-* [词汇表](_glossary.md)
