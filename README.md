@@ -28,7 +28,7 @@
 
 ## 4.常见问题
 
-- [FAQ](unvs/README)
+- [FAQ](unvs/faq)
 
 
 
