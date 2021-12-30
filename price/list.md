@@ -11,7 +11,7 @@
 |100w|0.026|26000|
 
 
-[点击购买](https://console.ucloud.cn/)
+[点击购买](https://console.ucloud.cn/unvs/buy)
 
 
 ## 注意事项
