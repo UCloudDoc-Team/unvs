@@ -3,7 +3,7 @@
    * [什么是号码认证](unvs/introduction/什么是号码认证)
 * 购买及付费
    * [计费模式](unvs/price/price)
-   * [定价表](unvs/price/price)
+   * [定价表](unvs/price/list)
 * 操作指南
    * [快速入门](unvs/guide)
    * [一键登录使用流程](unvs/guide)
