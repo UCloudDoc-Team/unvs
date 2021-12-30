@@ -12,7 +12,7 @@
 
 ### **1. 开通号码认证服务**
 
-- 登陆UCloud账号账号，选择号码认证服务，[访问控制台- UNVS号码认证服务](https://console.ucloud.cn/unvs) 
+- 登陆UCloud账号，选择号码认证服务，[访问控制台- UNVS号码认证服务](https://console.ucloud.cn/unvs) 
 - 点击阅读并同意《UCloud号码认证服务开通协议》
 
 
