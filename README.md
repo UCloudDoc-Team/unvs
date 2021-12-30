@@ -8,7 +8,7 @@
 ## 2.购买及付费
 
 * [计费模式](unvs/price/price)
-* [定价表](unvs/price/list
+* [定价表](unvs/price/list)
 
 
 
