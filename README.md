@@ -17,8 +17,7 @@
 
 ## 3.使用指南
 * [快速入门](unvs/guide)
-* [创建应用](unvs/README)
-* [业务场景配置](unvs/README)
+
 
 ## 4.SDK文档
 * [号码认证SDK概览](unvs/guide)
