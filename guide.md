@@ -48,8 +48,8 @@
 
 建议先通过[模拟API接口](https://docs.ucloud.cn/api/unvs-api/index)方式调用进行服务调用测试，调用成功后在对接API或SDK进行联调；
 
-- 对接 **移动前端SDK** 完成移动前端调用测试：[点击使用 移动前端SDK ](https://console.ucloud.cn/unvs) 
-- 对接**服务端SDK** 完成服务端调用测试：[点击使用 服务端SDK ](https://console.ucloud.cn/unvs) 
+- 对接**移动前端SDK**完成移动前端调用测试：[点击使用移动前端SDK ](https://console.ucloud.cn/unvs) 
+- 对接**服务端SDK** 完成服务端调用测试：[点击使用服务端SDK ](https://console.ucloud.cn/unvs) 
 
 
 
@@ -64,5 +64,5 @@
 
 号码认证服务对接使用后，可以通过如下方式查询服务调用相关业务数据：
 
-- 通过 业务数据页 查询：[点击查询 业务数据统计 信息](https://console.ucloud.cn/unvs/application) 
+- 通过业务数据页查询：[点击查询业务数据统计信息](https://console.ucloud.cn/unvs/application) 
 
