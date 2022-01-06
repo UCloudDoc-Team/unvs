@@ -9,7 +9,6 @@
    * [资源价目表](unvs/price/list)
 * 操作指南
    * [快速入门](unvs/guide)
-   * [创建应用](unvs/README)
-   * [业务场景配置](unvs/README)
+ 
 * 常见问题
    * [产品问题](unvs/faq)
