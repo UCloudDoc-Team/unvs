@@ -5,7 +5,7 @@
 * [什么是号码认证](unvs/introduction/什么是号码认证)
 * [一键登录交互流程](unvs/introduction/1500)
 * [本机校验交互流程](unvs/introduction/1501)
-* [服务协议](unvs/introduction/sevice_level)
+* [服务协议](unvs/introduction/service_level)
 
 
 ## 2.购买及付费
