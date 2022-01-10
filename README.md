@@ -9,18 +9,15 @@
 
 
 ## 2.购买及付费
-
 * [计费模式](unvs/price/price)
 * [资源价目表](unvs/price/list)
-
-
 
 ## 3.使用指南
 * [快速入门](unvs/guide)
 
-
 ## 4.SDK文档
 * [号码认证SDK概览](unvs/guide)
+
 ## 5.API文档
 * [号码认证API概览](unvs/guide)
 
