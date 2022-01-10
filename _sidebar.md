@@ -9,6 +9,9 @@
    * [资源价目表](unvs/price/list)
 * 操作指南
    * [快速入门](unvs/guide)
- 
+* SDK文档
+   * [号码认证SDK概览](unvs/guide)
+* API文档
+   * [号码认证API概览](unvs/guide)
 * 常见问题
    * [产品问题](unvs/faq)
