@@ -5,7 +5,7 @@
    * [本机校验交互流程](unvs/introduction/1501)
    * [服务协议](unvs/introduction/service_level)
 * 购买及付费
-   * [计费模式](unvs/price/price)
+   * [计费模式](unvs/price/mode)
    * [资源价目表](unvs/price/list)
 * 操作指南
    * [快速入门](unvs/guide)
