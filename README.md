@@ -9,7 +9,7 @@
 
 
 ## 2.购买及付费
-* [计费模式](unvs/price/price)
+* [计费模式](unvs/price/mode)
 * [资源价目表](unvs/price/list)
 
 ## 3.使用指南
