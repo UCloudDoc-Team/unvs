@@ -16,7 +16,11 @@
 * [快速入门](unvs/guide)
 
 ## 4.SDK文档
-* [号码认证SDK概览](unvs/guide)
+* [号码认证SDK概览](/unvs/sdk_docs/7001)
+    * [Python SDK](/unvs/sdk_docs/7003)
+    * [PHP SDK](/unvs/sdk_docs/7005)
+    * [Go SDK](/unvs/sdk_docs/7007)
+    * [Java SDK](/unvs/sdk_docs/7009)
 
 ## 5.API文档
 * [号码认证API概览](unvs/guide)
