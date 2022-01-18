@@ -10,8 +10,11 @@
 * 操作指南
    * [快速入门](unvs/guide)
 * SDK文档
-   * [号码认证SDK概览](unvs/guide)
+    * [号码认证SDK 概览](/unvs/sdk_docs/7001)
+    * [Python SDK](/unvs/sdk_docs/7003)
+    * [PHP SDK](/unvs/sdk_docs/7005)
+    * [Go SDK](/unvs/sdk_docs/7007)
+    * [Java SDK](/unvs/sdk_docs/7009)
 * API文档
-   * [号码认证API概览](unvs/guide)
 * 常见问题
    * [产品问题](unvs/faq)
