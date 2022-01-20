@@ -23,7 +23,7 @@
     * [Java SDK](/unvs/sdk_docs/7009)
 
 ## 5.API文档
-* [号码认证API概览](unvs/guide)
+* [号码认证API概览](api/unvs-api/README.md)
 
 ## 6.常见问题
 
