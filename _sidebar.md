@@ -7,8 +7,9 @@
 * 购买及付费
    * [计费模式](unvs/price/mode)
    * [资源价目表](unvs/price/list)
-* 操作指南
-   * [快速入门](unvs/guide)
+* 使用指南
+   * [一键登录和本机号码校验使用流程](unvs/guide)
+   * [H5本机号码校验使用流程](unvs/guide)
 * SDK文档
     * [号码认证SDK 概览](/unvs/sdk_docs/7001)
     * [Python SDK](/unvs/sdk_docs/7003)
