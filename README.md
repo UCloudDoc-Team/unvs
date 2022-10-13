@@ -13,7 +13,8 @@
 * [资源价目表](unvs/price/list)
 
 ## 3.使用指南
-* [快速入门](unvs/guide)
+* [一键登录和本机号码校验使用流程](unvs/guide)
+* [H5本机号码校验使用流程](unvs/guideH5)
 
 ## 4.SDK文档
 * [号码认证SDK概览](/unvs/sdk_docs/7001)
