@@ -38,7 +38,7 @@
 您可以根据实际业务需要，申请对应一键登录注册、本机号码认证的各类业务场景，每一个业务场景需要跟应用绑定后方可使用；   
 一个业务场景只能绑定一个应用，一个应用可以绑定多个业务场景；
 
-- **配置业务场景**：申请业务场景后，根据实际业务需要，跟应用作关联绑定，[点击配置业务场景](https://console.ucloud.cn/unvs)；
+- **配置业务场景**：申请业务场景后，根据实际业务需要，跟应用作关联绑定，[点击配置业务场景](https://console.ucloud.cn/unvs/application)；
 
 
 
@@ -46,7 +46,7 @@
 
 ### **4.服务调用&集成**
 
-建议先通过[模拟API接口](https://docs.ucloud.cn/api/unvs-api/index)方式调用进行服务调用测试，调用成功后在对接API或SDK进行联调；
+建议先通过[模拟API接口](https://docs.ucloud.cn/api/unvs-api/index)方式调用进行服务调用测试，调用成功后再对接API或SDK进行联调；
 
 - 对接**移动前端SDK**完成移动前端调用测试：[点击使用移动前端SDK-Android ](https://github.com/ucloud/unvs-android-sdk),  [点击使用移动前端SDK-iOS ](https://github.com/ucloud/unvs-ios-sdk)
 - 对接**服务端SDK** 完成服务端调用测试：[点击使用服务端SDK ](https://github.com/ucloud) 
